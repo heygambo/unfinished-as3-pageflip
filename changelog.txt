@@ -1,0 +1,9 @@
+Version 0.0.1 – 16.08.2010
+--------------------------
+
+Added a version number to this project
+
+
+
+
+
