@@ -84,14 +84,14 @@
     <StreamUse8kSampleRate>0</StreamUse8kSampleRate>
     <EventUse8kSampleRate>0</EventUse8kSampleRate>
     <UseNetwork>0</UseNetwork>
-    <DocumentClass>org.gambi.as3flipbook.ApplicationController</DocumentClass>
+    <DocumentClass>org.gambi.as3flipbook.BookController</DocumentClass>
     <AS3Strict>2</AS3Strict>
     <AS3Coach>4</AS3Coach>
     <AS3AutoDeclare>4096</AS3AutoDeclare>
     <AS3Dialect>AS3</AS3Dialect>
     <AS3ExportFrame>1</AS3ExportFrame>
     <AS3Optimize>1</AS3Optimize>
-    <ExportSwc>0</ExportSwc>
+    <ExportSwc>1</ExportSwc>
     <ScriptStuckDelay>15</ScriptStuckDelay>
     <IncludeXMP>1</IncludeXMP>
     <HardwareAcceleration>2</HardwareAcceleration>
