@@ -4,6 +4,11 @@ Version 0.0.1 – 16.08.2010
 Added a version number to this project
 
 
+Version 0.0.2 – 26.08.2010
+--------------------------
+
+Bugfix: BookController now counts in the right way
+Change: initObjects now is a public function and has to be called by your Project after AddedToStage.
 
 
 
